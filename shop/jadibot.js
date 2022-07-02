@@ -3,7 +3,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 │
 ├ • *Test Jadibot [30-60m]*
 │
-│ ⤷ *Free* 💌
+│ ⤷ *4k* 💌
 │
 ├ • *Permanen*
 │
@@ -25,7 +25,7 @@ return`╭──「 📖  *PRICE JADIBOT*」
 ├─ 「 📝  *NOTES* 」
 │
 │ ⤷ _Tidak perlu termux_
-│ ⤷ _Minat? Hubungi 0887435047326_
+│ ⤷ _Minat? Hubungi 085904142544_
 │
 ╰──「 *Thank's* 」
 `
